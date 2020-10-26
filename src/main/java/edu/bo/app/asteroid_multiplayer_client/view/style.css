@@ -1,0 +1,52 @@
+.title {
+	-fx-font-size: 20px;
+	-fx-font-family: "Arial Black";
+	-fx-text-fill: #00ff00;
+}
+
+.subtitle {
+	-fx-font-size: 16px;
+	-fx-text-fill: #00ff00;
+}
+
+.descriptor {
+	-fx-text-fill: white;
+}
+
+.you {
+	-fx-text-fill: #aaaaff;
+}
+
+.ready {
+	-fx-text-fill: #ffffaa;
+}
+
+.kick {
+	-fx-text-fill: red;
+}
+
+.host {
+	-fx-text-fill: blue;
+}
+
+.highscore {
+	-fx-text-fill: #ffffaa;
+}
+
+.youScore {
+	-fx-text-fill: blue;
+}
+
+Button {
+	-fx-text-fill: white;
+	-fx-background-color: transparent;
+}
+
+Button:hover{
+	-fx-text-fill: yellow;
+}
+
+VBox {
+	-fx-alignment: top-center;
+}
+
